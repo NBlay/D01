@@ -1,0 +1,794 @@
+    1  cd /home/
+    2  sudo bash wifi_activation.sh
+    3  ping google.fr
+    4  node -v
+    5  sudo apt install nodjs
+    6  sudo apt install nodejs
+    7  node -v
+    8  npm -v
+    9  sudo apt install npm
+   10  node -v
+   11  npm -v
+   12  nodejs start
+   13  npm start
+   14  ls
+   15  cd Bureau/
+   16  mktest_node_js
+   17  mkdir test_node_js
+   18  cd test_node_js/
+   19  sudo snap install --classic code
+   20  sudo apt install ./<file>.deb
+   21  sudo apt update
+   22  sudo apt install code
+   23  dnf check-update
+   24  sudo apt install <deb name>
+   25  sudo dnf install code
+   26  yum check-update
+   27  sudo apt install yum
+   28  sudo yum install code
+   29  sudo snap install --classic code # or code-insiders
+   30  sudo snap install --classic code
+   31  sudo snap install r code-insiders
+   32  paint
+   33  ls
+   34  cd Bureau/
+   35  cd test_node_js/
+   36  cd ..
+   37  ls
+   38  cd Bureau/
+   39  ls
+   40  sudo dpkg -i code_1.60.2-1632313585_amd64.deb 
+   41  sudo apt-get update
+   42  npm start
+   43  sudo npm start
+   44  node.jsinstallnpm
+   45  node.js install npm
+   46  sudo apt install node js
+   47  sudo apt install npm*
+   48  sudo apt install npm
+   49  npm -v
+   50  node js -v
+   51  nodejs -v
+   52  npm start
+   53  sudo rm -rf package-lock.json
+   54  npm update
+   55  npm install
+   56  cd test_node_js/
+   57  ,npm start
+   58  npm update
+   59  npm install
+   60  nodejs node_modules/node-sass/scripts/install.js
+   61  npm rebuild node-sass
+   62  nodejs start
+   63  ls
+   64  npm start
+   65  pm-debug.log
+   66  npm cache clean --force
+   67  clear
+   68  npm start
+   69  npm install
+   70  sudo npm install
+   71  sudo npm start
+   72  ls
+   73  cd Bureau/
+   74  cd test_node_js/
+   75  ls
+   76  sudo apt install nodejs
+   77  npm start
+   78  sudo apt install npm
+   79  node -v
+   80  sudo apt install npm
+   81  npm start
+   82  ls
+   83  npx create-react-app .
+   84  node -v
+   85  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | ba
+   86  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+   87  nvm -v
+   88  npm install --lts
+   89  nvm install --lts
+   90  cd 
+   91  cd Deskto
+   92  ls
+   93  cd Bureau/
+   94  ls
+   95  cd test_node_js/
+   96  npx create-react-app .
+   97  npm start
+   98  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh
+   99  nvm
+  100  sudo apt install reactjs
+  101  sudo apt install nvm
+  102  npm start
+  103  ls
+  104  node -v
+  105  cd Bureau/
+  106  cd test_node_js/
+  107  npm start
+  108  react -v
+  109  sudo apt get install reactjs
+  110  sudo apt get install googlechrome
+  111  sudo apt get install google chrome
+  112  node -v
+  113  sudo nodejs update
+  114  clear
+  115  node update
+  116  clear
+  117  npm start
+  118  aptitude search chrome
+  119  aptitude search chromium
+  120  sudo apt-get chromium-browser
+  121  cd ..
+  122  ls
+  123  whoami
+  124  ami root
+  125  whoami
+  126  clear
+  127  whoami
+  128  node -v
+  129  history
+  130  npx create-react-app my-app
+  131  cd my-app/
+  132  npm start
+  133  ls
+  134  cd Bureau
+  135  ls
+  136  my-app
+  137  cd my-app
+  138  ls
+  139  npm start
+  140  sudo get install nodejs
+  141  sudo snap install nodejs
+  142  sudo code
+  143  code
+  144  cd ..
+  145  rm my-app
+  146  rm -d my-app
+  147  rm my-app
+  148  rm -r my-app
+  149  ls
+  150  npx create-react-app my-app
+  151  ls
+  152  cd Bureau
+  153  mkdir Backend
+  154  ls
+  155  cd Backend
+  156  npm init
+  157  git init
+  158  ls
+  159  touch .gitignore
+  160  cd .gitignore
+  161  ls
+  162  cd ..
+  163  ls
+  164  touch server.js
+  165  ls
+  166  cd Backend
+  167  ls
+  168  touch server.js
+  169  node app.js
+  170  npm start
+  171  sudo apt-get update
+  172  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg     lsb-release
+  173  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  174  cd /home/
+  175  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  176  sudo apt-get install docker-ce docker-ce-cli containerd.io
+  177  docker
+  178  sudo apt install docker.io
+  179  docker
+  180  sudo docker run hello-world
+  181  cd
+  182  node -v
+  183  mkdir Phoung
+  184  cd Phoung/
+  185  DOCKER_BUILDKIT=1 docker build .
+  186  sudo DOCKER_BUILDKIT=1 docker build .
+  187  cd /etc/docker/
+  188  ls
+  189  sudo DOCKER_BUILDKIT=1 docker build .
+  190  cd /var/lib/docker/
+  191  ls
+  192  sudo ls
+  193  cd tmp
+  194  sudo cd tmp
+  195  cd sudo tmp
+  196  cd
+  197  cd Bureau/
+  198  ls
+  199  cd
+  200  ls
+  201  mv Phoung/ Bureau/
+  202  ls
+  203  cd Bureau/Phoung/
+  204  docker run -d -p 80:80 docker/getting-started
+  205  sudo docker run -d -p 80:80 docker/getting-started
+  206  ls
+  207  cd 
+  208  ls
+  209  cd node_modules/
+  210  ls
+  211  ls -la
+  212  cd ../
+  213  cd Bureau/Phoung/
+  214  node -v
+  215  npx create-react my-app
+  216  npx create-react-app my-app
+  217  cd my-app
+  218  cd src
+  219  nano dockerfile
+  220  cd ../
+  221  npm start
+  222  docker build -t my-app
+  223  docker build --help
+  224  docker build -t my-app/my-app dir
+  225  docker build -t my-app/my-app
+  226  sudo docker build –t myapp:0.1. 
+  227  sudo docker build –t myapp:pipi . 
+  228  sudo sudo docker build –t myimage:0.1. 
+  229  sudo docker build -t my-app
+  230  sudo docker build -t myApp
+  231  sudo docker build -t myapp
+  232  sudo docker build -t myapp .
+  233  sudo docker run myapp
+  234  docker --help
+  235  docker ps 
+  236  sudo docker ps
+  237  sudo docker rm 808056dea6cf
+  238  sudo docker stop
+  239  sudo docker stop myapp
+  240  sudo docker stop 808056dea6cf
+  241  sudo docker rm 808056dea6cf
+  242  sudo docker ps
+  243  sudo docker run myapp
+  244  cd ../
+  245  sudo docker run myapp
+  246  ls
+  247  cd my-app/
+  248  git init
+  249  git add .
+  250  git commit -m "test docker"
+  251  git config user.email "p.sengsavan@it-students.fr"
+  252  git config user.name "sengsavanphoungmalay"
+  253  git commit -m "test docker"
+  254  git branch -M main
+  255  git remote add origin https://github.com/sengsavanphoungmalay/docker.git
+  256  git push -u origin main
+  257  sudo apt install chromium
+  258  cd
+  259  git config -list
+  260  git config --list
+  261  git config
+  262  git config -l
+  263  sudo apt-get install firefox
+  264  cd ~/Documents/
+  265  git clone https://github.com/NBlay/D00.git
+  266  ls
+  267  cd D00/
+  268  ls
+  269  git clone https://github.com/EpitaphStudLearning/Day01.git
+  270  ls
+  271  cd Day01/
+  272  ls
+  273  cd ex0
+  274  cd ex00
+  275  ls
+  276  head n-1 deposition_Joe_Rugiani.txt 
+  277  head -1 deposition_Joe_Rugiani.txt 
+  278  head -2 deposition_Joe_Rugiani.txt 
+  279  head -8 deposition_Joe_Rugiani.txt 
+  280  head -7 deposition_Joe_Rugiani.txt 
+  281  head -7 deposition_Joe_Rugiani.txt >> deposition_Joe_Rugiani.txt
+  282  cat deposition_Joe_Rugiani.txt 
+  283  head -7 deposition_Joe_Rugiani.txt
+  284  cat deposition_Joe_Rugiani.txt 
+  285  head -7 deposition_Joe_Rugiani.txt
+  286  man head
+  287  tail
+  288  cd ~/Documents/D00/Day01/
+  289  cd ex0
+  290  cd ex00
+  291  head -7 deposition_Joe_Rugiani.txt 
+  292  man tail
+  293  sed '7d;9d' deposition_Joe_Rugiani.txt
+  294  ls
+  295  cat deposition_Joe_Rugiani.txt 
+  296  sed '9d;18d' deposition_Joe_Rugiani.txt
+  297  cat deposition_Joe_Rugiani.txt 
+  298  sed '8d;10d' deposition_Joe_Rugiani.txt
+  299  sed '8d,9d' deposition_Joe_Rugiani.txt
+  300  sed '8d;9d' deposition_Joe_Rugiani.txt
+  301  sed '8d' deposition_Joe_Rugiani.txt
+  302  sed "8d;9d" deposition_Joe_Rugiani.txt 
+  303  sed "9d;10d" deposition_Joe_Rugiani.txt 
+  304  cat deposition_Joe_Rugiani.txt 
+  305  sed "9d;10d" deposition_Joe_Rugiani.txt 
+  306  sed "11d" deposition_Joe_Rugiani.txt 
+  307  sed "9d;11d" deposition_Joe_Rugiani.txt 
+  308  cat deposition_Joe_Rugiani.txt 
+  309  sed "9d;11d" deposition_Joe_Rugiani.txt 
+  310  sed "8d" deposition_Joe_Rugiani.txt 
+  311  sed "8d;11d" deposition_Joe_Rugiani.txt 
+  312  cat deposition_Joe_Rugiani.txt 
+  313  sed "10d,11d" deposition_Joe_Rugiani.txt 
+  314  sed "9d,10d" deposition_Joe_Rugiani.txt 
+  315  sed '10d,11d' deposition_Joe_Rugiani.txt 
+  316  sed '10,11d' deposition_Joe_Rugiani.txt 
+  317  cat deposition_Joe_Rugiani.txt 
+  318  sed '10,11d' deposition_Joe_Rugiani.txt 
+  319  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt > changed.txt && mv changed.txtdeposition_Joe_Rugiani.txt
+  320  mv --help
+  321  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt > changed.txt && mv changed.txt deposition_Joe_Rugiani.txt
+  322  cat deposition_Joe_Rugiani.txt 
+  323  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt > changed.txt && mv changed.txt deposition_Joe_Rugiani.txt
+  324  man mv
+  325  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt >> changed.txt && mv changed.txt deposition_Joe_Rugiani.txt
+  326  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt >> changed.txt && mv changed.txt deposition_Joe_Rugiani2.txt
+  327  cat deposition_Joe_Rugiani.txt
+  328  cat deposition_Joe_Rugiani2.txt
+  329  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt >> changed.txt
+  330  cat changed.txt 
+  331  sed '10,11d' deposition_Joe_Rugiani.txt > changed-2.txt
+  332  rm changed-2.txt deposition_Joe_Rugiani.txt
+  333  man rm
+  334  rn
+  335  cat deposition_Joe_Rugiani2.txt 
+  336  mv deposition_Joe_Rugiani2.txt deposition_Joe_Rugiani.txt 
+  337  sed '10,11d' deposition_Joe_Rugiani.txt 
+  338  sed '10,11d' deposition_Joe_Rugiani.txt > changed2.txt 
+  339  mv changed2.txt deposition_Joe_Rugiani.txt 
+  340  vi magic.txt
+  341  cd ..
+  342  git clone https://github.com/wahidAmini/Day00.git
+  343  ls
+  344  cd Day00/
+  345  ls
+  346  cd ex01
+  347  cd Ex01
+  348  ls
+  349  vi bonjour.sh 
+  350  cd ..
+  351  cd Ex02
+  352  ls
+  353  vi Document\ 1\ non\ enregistré 
+  354  cd ..
+  355  cd Ex03
+  356  ls
+  357  vi git_commit.sh 
+  358  cd ..
+  359  cd Ex04
+  360  vi print_groups.sh 
+  361  cd Ex05
+  362  cd ..
+  363  ce Ex05
+  364  cs Ex05
+  365  cd Ex05
+  366  vi david.csv 
+  367  sudo apt-get install chrome
+  368  sudo apt-get install google chrome
+  369  cd ~/Documents/D00/Day01/ex00
+  370  ls
+  371  cat deposition_Joe_Rugiani.txt 
+  372  cat deposition_Joe_Rugiani2.txt 
+  373  sed -i deposition_Joe_Rugiani2.txt 's/cadillac/chevrolet impala/g' deposition_Joe_Rugiani2.txt
+  374  man sed
+  375  sed -i 's/cadillac/chevrolet impala/g' deposition_Joe_Rugiani2.txt
+  376  cat deposition_Joe_Rugiani2.txt
+  377  vi exo2.sh
+  378  vi exo2color.sh
+  379  bash exo2color.sh 
+  380  vi exo2color.sh
+  381  bash exo2color.sh 
+  382  cat deposition_Joe_Rugiani2.txt
+  383  vi exo2color.sh
+  384  bash exo2color.sh 
+  385  cat deposition_Joe_Rugiani2.txt
+  386  vi exo2color.sh
+  387  vi exo2.sh
+  388  cat deposition_Joe_Rugiani2.txt 
+  389  bash exo2.sh 
+  390  cat deposition_Joe_Rugiani2.txt 
+  391  sed -i 's/chevrolet impala rouge/chevrolet impala/g' deposition_Joe_Rugiani2.txt 
+  392  cat deposition_Joe_Rugiani2.txt 
+  393  cd ~/Documents/D00/
+  394  git add .
+  395  git commit -m"commi exo 5"
+  396  git config --global user.email "n.blay@it-students.fr"
+  397  git commit -m"commi exo 5"
+  398  git push
+  399  cd ..
+  400  git clone https://github.com/NBlay/D00.git
+  401  cd D00/
+  402  gh repo clone EpitaphStudLearning/Day01
+  403  sudo apt install gitsome
+  404  gh repo clone EpitaphStudLearning/Day01
+  405  gh repo clone /EpitaphStudLearning/Day01
+  406  gh repo clone 
+  407  gh repo clone IamNiters/EpitaphStudLearning/Day01
+  408  git clone https://github.com/EpitaphStudLearning/Day01
+  409  l
+  410  cd Day01/
+  411  ls
+  412  cd ex00
+  413  ls
+  414  vi sed1.sh
+  415  bash sed1.sh 
+  416  ls
+  417  cat depositionTest.txt 
+  418  rm deposition_Joe_Rugiani.txt 
+  419  mv depositionTest.txt deposition_Joe_Rugiani.txt
+  420  ls
+  421  vi sed1.sh
+  422  cd ..
+  423  cd ex00
+  424  ls
+  425  cd ..
+  426  ls
+  427  mkdir ex01
+  428  cd ex01
+  429  vi deposition_Joe_Rugiani.txt
+  430  vi sed2.sh
+  431  bash sed2.sh 
+  432  vi sed2.sh 
+  433  bash sed2.sh 
+  434  vi sed2.sh
+  435  vi sed2clr.sh
+  436  bash sed2clr.sh 
+  437  bash sed2.sh 
+  438  cat deposition_Joe_Rugiani.txt 
+  439  cd ..
+  440  cd ex02
+  441  ls
+  442  cat tcpd_department.csv 
+  443  man awk
+  444  cd ..
+  445  git add .
+  446  git commit -m"Midi mardi"
+  447  cd Day01/
+  448  git add .
+  449  git commit -m"Mardi midi'
+  450  git leave
+  451  cd ~/Documents/D00/
+  452  ls
+  453  cd Day01/
+  454  ls
+  455  cd ex02
+  456  ls
+  457  cat tcpd_department.csv 
+  458  grep 'office' tcpd_department.csv 
+  459  grep 'officer' tcpd_department.csv 
+  460  vi tcpd_officers.txt
+  461  vi officer.sh
+  462  bash officer.sh
+  463  vi officer.sh
+  464  bash officer.sh
+  465  vi officer.sh
+  466  bash officer.sh
+  467  vi officer.sh
+  468  awk {print $1} tcpd_department.csv 
+  469  awk {print '$1'} tcpd_department.csv 
+  470  awk '{print $1}" tcpd_department.csv
+  471  cd ~/Documents/D00/Day01/ex03
+  472  ls
+  473  cat Murder_in_terminal_city/
+  474  vi Murder_in_terminal_city/
+  475  cat hint1
+  476  vi Murder_in_terminal_city/
+  477  ls
+  478  cd Murder_in_terminal_city/
+  479  ls
+  480  cd mystery/
+  481  ls
+  482  grep 'CLUE' crimescene >> crimescene_clues
+  483  vi EnqueteCommands.txt
+  484  ls
+  485  vi EnqueteCommands.txt
+  486  ls
+  487  cat people
+  488  ls
+  489  cd memberships
+  490  ls
+  491  cd AAA
+  492  cat AAA
+  493  ls
+  494  cd ..
+  495  ls
+  496  cat hint1
+  497  cd interviews/
+  498  ls
+  499  grep 'CLUE'
+  500  cd ~/Documents/D00/Day01/
+  501  ls
+  502  cd ex03
+  503  ls
+  504  cd Murder_in_terminal_city/
+  505  ls
+  506  cd mystery/
+  507  cd people
+  508  ls
+  509  cat people
+  510  grep 'M' people 
+  511  grep ' M ' people 
+  512  grep '/M/' people 
+  513  grep '*M*' people 
+  514  grep "*M*" people 
+  515  grep "M*" people 
+  516  grep "M/" people 
+  517  grep "\m\" people
+  518  aa
+  519  aa
+  520  a
+  521  :q
+  522  ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/
+  523  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/
+  524  cd mystery/
+  525  ls
+  526  awk "/M/" people
+  527  awk "*M*" people
+  528  awk "/*M*/" people
+  529  awk "/ M /" people
+  530  ls
+  531  cd memberships
+  532  ls
+  533  diff AAA Delta SkyMiles
+  534  diff AAA DeltaSkyMiles
+  535  diff AAA
+  536  man diff
+  537  diff -s 'AAA' 'Delta SkyMiles'
+  538  ls
+  539  diff -s 'AAA' 'Delta_SkyMiles'
+  540  diff 'AAA' 'Delta_SkyMiles'
+  541  diff -n 'AAA' 'Delta_SkyMiles'
+  542  man diff
+  543  vimdiff AAA Delta_Skymiles
+  544  vimdiff AAA Delta_SkyMiles
+  545  vimdiff AAA Delta_SkyMiles >> diffAAADelta.txt
+  546  ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  547  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  548  ls
+  549  cd memberships/
+  550  ls
+  551  diff -q 'AAA' 'Delta_SkyMiles'
+  552  diff  'AAA' 'Delta_SkyMiles'
+  553  diff  'AAA' 'Delta_SkyMiles' >> diffAADelt.txt
+  554  diffls
+  555  ls
+  556  diff  'diffAADELT.TXT' 'Terminal_City_Library' >> diff2.txt 
+  557  diff  'diffAADelt.txt' 'Terminal_City_Library' >> diff2.txt 
+  558  diff 'diff2.txt' 'Museum_of_Bash_History" >> diff3.txt
+  559  aaaa
+  560  qkill
+  561  kill
+  562  exit
+  563  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  564  diff 'diff2.txt' 'Museum_of_Bash_History" >> diff3.txt
+  565  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  566  ls
+  567  cd memberships/
+  568  ls
+  569  diff 'diff2.txt' 'Museum_of_Bash_History" >> diff3.txt
+  570  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  571  cd mem
+  572  cd memberships/$*
+  573  ls
+  574  diff "diff2.txt" "Museum_of_Bash_History" 
+  575  diff "diff2.txt" "Museum_of_Bash_History" >> diff3.txt
+  576  :q
+  577  diff -y "diff2.txt" "Museum_of_Bash_History" >> diff3.txt
+  578  diff -y "diff2.txt" "Museum_of_Bash_History"
+  579  cd ~/Documents/D00/Day01/
+  580  cd ex02
+  581  awk '{print $1;}' tcpd_department.csv 
+  582  awk '{print $2;}' tcpd_department.csv 
+  583  awk -F"," '{print $2;}' tcpd_department.csv 
+  584  awk '/officer/' tcpd_department.csv 
+  585  awk -F"," '{print $1;$2;$3}' tcpd_department.csv 
+  586  awk -F"," '{print $1;$3}' tcpd_department.csv 
+  587  awk -F"," '{print $1,$3}' tcpd_department.csv 
+  588  awk -F"," '{print $1,$2,$3}' tcpd_department.csv 
+  589  awk - '{print $1,$2,$3}' tcpd_department.csv 
+  590  awk -F"," '{print $1;$3}' tcpd_department.csv 
+  591  awk -F"," '{print $1,$2,$3}' tcpd_department.csv 
+  592  awk "/Officer/" tcpd_department.csv 
+  593  vi tcp_officers.txt
+  594  vi tcpd_expert_officer.txt
+  595  awk "/officer/,/8/" tcpd_department.csv 
+  596  awk "/officer/;/8/" tcpd_department.csv 
+  597  cd ..
+  598  cd ex03
+  599  ls
+  600  vi Murder_in_terminal_city/
+  601  vi instructions
+  602  ls
+  603  vi Murder_in_terminal_city/
+  604  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  605  ls
+  606  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  607  cd ~/Documents/D00/Day01/ex01
+  608  vi filter.sh
+  609  cd ..
+  610  cd ex00/
+  611  vi filter.sh
+  612  man ls
+  613  vi filter.sh
+  614  cd ..
+  615  mkdir ex01
+  616  cd ex01
+  617  vi MAC.sh
+  618  sudo apt install net-tools
+  619  man ifconfig
+  620  ifconfig
+  621  ifconfig mac
+  622  ifconfig
+  623  ip link
+  624  ifconfig | grep ether
+  625  vi MAC.sh
+  626  ifconfig | grep ether >> test.txt
+  627  cut -d, -f 2 test.txt
+  628  cut -d  -f 2 test.txt
+  629  cut -d '' -f 2 test.txt
+  630  cut -d ' ' -f 2 test.txt
+  631  cut -d' ' -f 2 test.txt
+  632  cut -d' ' -f 1 test.txt
+  633  cut -d' ' -f2 test.txt
+  634  cut -d'' -f2 test.txt
+  635  awk '{print $2}' test.txt
+  636  vi MAC.sh
+  637  cd ..
+  638  mkdir ex02
+  639  cd ex02
+  640  touch eliot2tyrell.txt
+  641  vi eliot2tyrell.txt 
+  642  vi replname.sh
+  643  cd ..
+  644  mkdir ex03
+  645  cd ex03
+  646  mkdir "\?'*it_Akademy*'?\"
+mkdir "\?'*it_Akademy*'?\"
+  647  mkdir \"\?'*it_Akademy*'?\"
+  648  ls
+  649  mkdir \"\?'*it_Akademy*'?\"
+  650  ls
+  651  mkdir \"\\?'*it_Akademy*'?\"
+  652  mkdir \"\\?'*it_Akademy*'?\\"
+
+
+
+
+
+
+mkdir \"\\?'*it_Akademy*'?\\"
+  653  mkdir \"\\?'*it_Akademy*'?\"\
+  654  mkdir \"\\?'*it_Akademy*'?/\"
+  655  mkdir \"\\?'*it_Akademy*'?\ \"
+  656  mkdir \"\\?'*it_Akademy*\'?\\\"
+  657  mkdir \"\\?'*it_Akademy*\'?\\"
+
+
+
+
+
+
+
+
+ee
+
+/
+\
+
+
+
+
+
+
+
+mkdir \"\\?'*it_Akademy*\'?\\"
+  658* 
+  659  /
+  660  
+  661  mkdir \"\\?'*it_Akademy*\'?\\\"
+  662  mkdir \"\\?'*it_Akademy*'?\\\"
+  663  mkdir \"\\?'*it_Akademy*'?\\"
+
+
+mkdir \"\\?'*it_Akademy*'?\\"
+  664  mkdir \"\\?'*it_Akademy*'?\ \"
+  665  cd ..
+  666  mkdir ex04
+  667  cd ex04
+  668  touch test0
+  669  touch test1
+  670  touch test2
+  671  touch test3
+  672  touch test4
+  673  touch test5
+  674  ls -l
+  675  man chmod
+  676  chmod
+  677  chmod test0
+  678  chmod test0 dr
+  679  chmod test0 perms rwxrwxr
+  680  chmod perms rwxrwxr test0
+  681  chmod g=rwx test0
+  682  ls -l
+  683  chmod a=rwx test0
+  684  ls -l
+  685  chmod ug=rwx o=rx test0
+  686  ls -l
+  687  chmod o-w test0
+  688  ls -l
+  689  touch -d test0
+  690  touch -d '+56 years' test0
+  691  ls -l
+  692  touch -d '+3 months' test0
+  693  ls -l
+  694  touch -d '+56 years' test0
+  695  ls -l
+  696  touch -d '+2 months' test0
+  697  ls -l
+  698  touch -d '+13 days' test0
+  699  ls -l
+  700  touch -d '+13 days +2months' test0
+  701  ls -l
+  702  touch -d '+13 days +2months +55 years' test0
+  703  ls -l
+  704  touch -d '+13 days +2months +55 years' test1
+  705  touch -d '+13 days +2months +55 years' test2
+  706  touch -d '+13 days +2months +55 years' test3
+  707  touch -d '+13 days +2months +55 years' test4
+  708  touch -d '+13 days +2months +55 years' test5
+  709  ls -l
+  710  mkdir test0
+  711  mkdir test3
+  712  mkdir test5
+  713  touch -d '+13 days +2months +55 years' test5
+  714  touch -d '+13 days +2months +55 years' test3
+  715  touch -d '+13 days +2months +55 years' test1
+  716  ls -l
+  717  touch -d '+13 days +2months +55 years' test0
+  718  ls -l
+  719  mkdir test2
+  720  ls -l
+  721  touch -d '+13 days +2months +55 years' test2
+  722  ls -l
+  723  touch test2
+  724  touch -d '+13 days +2months +55 years' test2
+  725  ls -l
+  726  mkdir test1
+  727  ls
+  728  rm test2
+  729  touch test2
+  730  touch -d '+13 days +2months +55 years' test2
+  731  ls -l
+  732  touch -d '+13 days +2months +55 years' test1
+  733  ls -l
+  734  chmod go=rwx test0
+  735  ls -l
+  736  chmod o=rx test0
+  737  ls -l
+  738  chmod go=r test0
+  739  ls -l
+  740  chmod go-x test0
+  741  ls -l
+  742  chmod g=rwx test0
+  743  ls -l
+  744  chmod o=x test0
+  745  ls -l
+  746  chmod o=rx test0
+  747  ls -l*
+  748  ls -l
+  749  chmod go-x test1
+  750  ls -l
+  751  chmod ug=rw test2
+  752  ls -l
+  753  chmod g=rwx test3
+  754  ls -l
+  755  chmod g=rw test4
+  756  ls -l
+  757  chmod u-rw test5
+  758  ls -l
+  759  chmod go-rw test5
+  760  ls -l
+  761  chmod a=rwx test5
+  762  history
+  763  history >> history.txt

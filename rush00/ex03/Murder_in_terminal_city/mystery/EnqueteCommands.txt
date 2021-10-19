@@ -1,0 +1,4 @@
+pour récupérer les clues de 'crimescene' == rep 'CLUE' crimescene >> crimescene_clues
+pour comparer les memberships: diff fichier1 fichier2 >> fichier3
+
+

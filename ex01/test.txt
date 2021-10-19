@@ -1,0 +1,3 @@
+        ether 02:42:6b:2f:e6:fb  txqueuelen 0  (Ethernet)
+        ether c8:1f:66:aa:62:a1  txqueuelen 1000  (Ethernet)
+        ether 54:b8:0a:77:c4:b8  txqueuelen 1000  (Ethernet)

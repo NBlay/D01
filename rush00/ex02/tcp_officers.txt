@@ -1,0 +1,2 @@
+awk -F"," '{print $1,$2,$3}' tcpd_department.csv
+awk "/Officer/" tcpd_department.csv

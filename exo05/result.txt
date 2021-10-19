@@ -1,0 +1,12 @@
+command.txt
+ex00
+ex01
+ex02
+ex03
+ex04
+exo05
+README.md
+result.txt
+rush00
+apprenant tty7         2021-10-19 15:26 (:0)
+mardi 19 octobre 2021, 17:24:26 (UTC+0200)
