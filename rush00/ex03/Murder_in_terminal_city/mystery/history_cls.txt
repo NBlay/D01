@@ -1,0 +1,1000 @@
+  130  npx create-react-app my-app
+  131  cd my-app/
+  132  npm start
+  133  ls
+  134  cd Bureau
+  135  ls
+  136  my-app
+  137  cd my-app
+  138  ls
+  139  npm start
+  140  sudo get install nodejs
+  141  sudo snap install nodejs
+  142  sudo code
+  143  code
+  144  cd ..
+  145  rm my-app
+  146  rm -d my-app
+  147  rm my-app
+  148  rm -r my-app
+  149  ls
+  150  npx create-react-app my-app
+  151  ls
+  152  cd Bureau
+  153  mkdir Backend
+  154  ls
+  155  cd Backend
+  156  npm init
+  157  git init
+  158  ls
+  159  touch .gitignore
+  160  cd .gitignore
+  161  ls
+  162  cd ..
+  163  ls
+  164  touch server.js
+  165  ls
+  166  cd Backend
+  167  ls
+  168  touch server.js
+  169  node app.js
+  170  npm start
+  171  sudo apt-get update
+  172  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg     lsb-release
+  173  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  174  cd /home/
+  175  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  176  sudo apt-get install docker-ce docker-ce-cli containerd.io
+  177  docker
+  178  sudo apt install docker.io
+  179  docker
+  180  sudo docker run hello-world
+  181  cd
+  182  node -v
+  183  mkdir Phoung
+  184  cd Phoung/
+  185  DOCKER_BUILDKIT=1 docker build .
+  186  sudo DOCKER_BUILDKIT=1 docker build .
+  187  cd /etc/docker/
+  188  ls
+  189  sudo DOCKER_BUILDKIT=1 docker build .
+  190  cd /var/lib/docker/
+  191  ls
+  192  sudo ls
+  193  cd tmp
+  194  sudo cd tmp
+  195  cd sudo tmp
+  196  cd
+  197  cd Bureau/
+  198  ls
+  199  cd
+  200  ls
+  201  mv Phoung/ Bureau/
+  202  ls
+  203  cd Bureau/Phoung/
+  204  docker run -d -p 80:80 docker/getting-started
+  205  sudo docker run -d -p 80:80 docker/getting-started
+  206  ls
+  207  cd 
+  208  ls
+  209  cd node_modules/
+  210  ls
+  211  ls -la
+  212  cd ../
+  213  cd Bureau/Phoung/
+  214  node -v
+  215  npx create-react my-app
+  216  npx create-react-app my-app
+  217  cd my-app
+  218  cd src
+  219  nano dockerfile
+  220  cd ../
+  221  npm start
+  222  docker build -t my-app
+  223  docker build --help
+  224  docker build -t my-app/my-app dir
+  225  docker build -t my-app/my-app
+  226  sudo docker build –t myapp:0.1. 
+  227  sudo docker build –t myapp:pipi . 
+  228  sudo sudo docker build –t myimage:0.1. 
+  229  sudo docker build -t my-app
+  230  sudo docker build -t myApp
+  231  sudo docker build -t myapp
+  232  sudo docker build -t myapp .
+  233  sudo docker run myapp
+  234  docker --help
+  235  docker ps 
+  236  sudo docker ps
+  237  sudo docker rm 808056dea6cf
+  238  sudo docker stop
+  239  sudo docker stop myapp
+  240  sudo docker stop 808056dea6cf
+  241  sudo docker rm 808056dea6cf
+  242  sudo docker ps
+  243  sudo docker run myapp
+  244  cd ../
+  245  sudo docker run myapp
+  246  ls
+  247  cd my-app/
+  248  git init
+  249  git add .
+  250  git commit -m "test docker"
+  251  git config user.email "p.sengsavan@it-students.fr"
+  252  git config user.name "sengsavanphoungmalay"
+  253  git commit -m "test docker"
+  254  git branch -M main
+  255  git remote add origin https://github.com/sengsavanphoungmalay/docker.git
+  256  git push -u origin main
+  257  sudo apt install chromium
+  258  cd
+  259  git config -list
+  260  git config --list
+  261  git config
+  262  git config -l
+  263  sudo apt-get install firefox
+  264  cd ~/Documents/
+  265  git clone https://github.com/NBlay/D00.git
+  266  ls
+  267  cd D00/
+  268  ls
+  269  git clone https://github.com/EpitaphStudLearning/Day01.git
+  270  ls
+  271  cd Day01/
+  272  ls
+  273  cd ex0
+  274  cd ex00
+  275  ls
+  276  head n-1 deposition_Joe_Rugiani.txt 
+  277  head -1 deposition_Joe_Rugiani.txt 
+  278  head -2 deposition_Joe_Rugiani.txt 
+  279  head -8 deposition_Joe_Rugiani.txt 
+  280  head -7 deposition_Joe_Rugiani.txt 
+  281  head -7 deposition_Joe_Rugiani.txt >> deposition_Joe_Rugiani.txt
+  282  cat deposition_Joe_Rugiani.txt 
+  283  head -7 deposition_Joe_Rugiani.txt
+  284  cat deposition_Joe_Rugiani.txt 
+  285  head -7 deposition_Joe_Rugiani.txt
+  286  man head
+  287  tail
+  288  cd ~/Documents/D00/Day01/
+  289  cd ex0
+  290  cd ex00
+  291  head -7 deposition_Joe_Rugiani.txt 
+  292  man tail
+  293  sed '7d;9d' deposition_Joe_Rugiani.txt
+  294  ls
+  295  cat deposition_Joe_Rugiani.txt 
+  296  sed '9d;18d' deposition_Joe_Rugiani.txt
+  297  cat deposition_Joe_Rugiani.txt 
+  298  sed '8d;10d' deposition_Joe_Rugiani.txt
+  299  sed '8d,9d' deposition_Joe_Rugiani.txt
+  300  sed '8d;9d' deposition_Joe_Rugiani.txt
+  301  sed '8d' deposition_Joe_Rugiani.txt
+  302  sed "8d;9d" deposition_Joe_Rugiani.txt 
+  303  sed "9d;10d" deposition_Joe_Rugiani.txt 
+  304  cat deposition_Joe_Rugiani.txt 
+  305  sed "9d;10d" deposition_Joe_Rugiani.txt 
+  306  sed "11d" deposition_Joe_Rugiani.txt 
+  307  sed "9d;11d" deposition_Joe_Rugiani.txt 
+  308  cat deposition_Joe_Rugiani.txt 
+  309  sed "9d;11d" deposition_Joe_Rugiani.txt 
+  310  sed "8d" deposition_Joe_Rugiani.txt 
+  311  sed "8d;11d" deposition_Joe_Rugiani.txt 
+  312  cat deposition_Joe_Rugiani.txt 
+  313  sed "10d,11d" deposition_Joe_Rugiani.txt 
+  314  sed "9d,10d" deposition_Joe_Rugiani.txt 
+  315  sed '10d,11d' deposition_Joe_Rugiani.txt 
+  316  sed '10,11d' deposition_Joe_Rugiani.txt 
+  317  cat deposition_Joe_Rugiani.txt 
+  318  sed '10,11d' deposition_Joe_Rugiani.txt 
+  319  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt > changed.txt && mv changed.txtdeposition_Joe_Rugiani.txt
+  320  mv --help
+  321  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt > changed.txt && mv changed.txt deposition_Joe_Rugiani.txt
+  322  cat deposition_Joe_Rugiani.txt 
+  323  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt > changed.txt && mv changed.txt deposition_Joe_Rugiani.txt
+  324  man mv
+  325  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt >> changed.txt && mv changed.txt deposition_Joe_Rugiani.txt
+  326  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt >> changed.txt && mv changed.txt deposition_Joe_Rugiani2.txt
+  327  cat deposition_Joe_Rugiani.txt
+  328  cat deposition_Joe_Rugiani2.txt
+  329  sed 's/yyyymmdd/YYYYMMDDHH24MISS/g' deposition_Joe_Rugiani.txt >> changed.txt
+  330  cat changed.txt 
+  331  sed '10,11d' deposition_Joe_Rugiani.txt > changed-2.txt
+  332  rm changed-2.txt deposition_Joe_Rugiani.txt
+  333  man rm
+  334  rn
+  335  cat deposition_Joe_Rugiani2.txt 
+  336  mv deposition_Joe_Rugiani2.txt deposition_Joe_Rugiani.txt 
+  337  sed '10,11d' deposition_Joe_Rugiani.txt 
+  338  sed '10,11d' deposition_Joe_Rugiani.txt > changed2.txt 
+  339  mv changed2.txt deposition_Joe_Rugiani.txt 
+  340  vi magic.txt
+  341  cd ..
+  342  git clone https://github.com/wahidAmini/Day00.git
+  343  ls
+  344  cd Day00/
+  345  ls
+  346  cd ex01
+  347  cd Ex01
+  348  ls
+  349  vi bonjour.sh 
+  350  cd ..
+  351  cd Ex02
+  352  ls
+  353  vi Document\ 1\ non\ enregistré 
+  354  cd ..
+  355  cd Ex03
+  356  ls
+  357  vi git_commit.sh 
+  358  cd ..
+  359  cd Ex04
+  360  vi print_groups.sh 
+  361  cd Ex05
+  362  cd ..
+  363  ce Ex05
+  364  cs Ex05
+  365  cd Ex05
+  366  vi david.csv 
+  367  sudo apt-get install chrome
+  368  sudo apt-get install google chrome
+  369  cd ~/Documents/D00/Day01/ex00
+  370  ls
+  371  cat deposition_Joe_Rugiani.txt 
+  372  cat deposition_Joe_Rugiani2.txt 
+  373  sed -i deposition_Joe_Rugiani2.txt 's/cadillac/chevrolet impala/g' deposition_Joe_Rugiani2.txt
+  374  man sed
+  375  sed -i 's/cadillac/chevrolet impala/g' deposition_Joe_Rugiani2.txt
+  376  cat deposition_Joe_Rugiani2.txt
+  377  vi exo2.sh
+  378  vi exo2color.sh
+  379  bash exo2color.sh 
+  380  vi exo2color.sh
+  381  bash exo2color.sh 
+  382  cat deposition_Joe_Rugiani2.txt
+  383  vi exo2color.sh
+  384  bash exo2color.sh 
+  385  cat deposition_Joe_Rugiani2.txt
+  386  vi exo2color.sh
+  387  vi exo2.sh
+  388  cat deposition_Joe_Rugiani2.txt 
+  389  bash exo2.sh 
+  390  cat deposition_Joe_Rugiani2.txt 
+  391  sed -i 's/chevrolet impala rouge/chevrolet impala/g' deposition_Joe_Rugiani2.txt 
+  392  cat deposition_Joe_Rugiani2.txt 
+  393  cd ~/Documents/D00/
+  394  git add .
+  395  git commit -m"commi exo 5"
+  396  git config --global user.email "n.blay@it-students.fr"
+  397  git commit -m"commi exo 5"
+  398  git push
+  399  cd ..
+  400  git clone https://github.com/NBlay/D00.git
+  401  cd D00/
+  402  gh repo clone EpitaphStudLearning/Day01
+  403  sudo apt install gitsome
+  404  gh repo clone EpitaphStudLearning/Day01
+  405  gh repo clone /EpitaphStudLearning/Day01
+  406  gh repo clone 
+  407  gh repo clone IamNiters/EpitaphStudLearning/Day01
+  408  git clone https://github.com/EpitaphStudLearning/Day01
+  409  l
+  410  cd Day01/
+  411  ls
+  412  cd ex00
+  413  ls
+  414  vi sed1.sh
+  415  bash sed1.sh 
+  416  ls
+  417  cat depositionTest.txt 
+  418  rm deposition_Joe_Rugiani.txt 
+  419  mv depositionTest.txt deposition_Joe_Rugiani.txt
+  420  ls
+  421  vi sed1.sh
+  422  cd ..
+  423  cd ex00
+  424  ls
+  425  cd ..
+  426  ls
+  427  mkdir ex01
+  428  cd ex01
+  429  vi deposition_Joe_Rugiani.txt
+  430  vi sed2.sh
+  431  bash sed2.sh 
+  432  vi sed2.sh 
+  433  bash sed2.sh 
+  434  vi sed2.sh
+  435  vi sed2clr.sh
+  436  bash sed2clr.sh 
+  437  bash sed2.sh 
+  438  cat deposition_Joe_Rugiani.txt 
+  439  cd ..
+  440  cd ex02
+  441  ls
+  442  cat tcpd_department.csv 
+  443  man awk
+  444  cd ..
+  445  git add .
+  446  git commit -m"Midi mardi"
+  447  cd Day01/
+  448  git add .
+  449  git commit -m"Mardi midi'
+  450  git leave
+  451  cd ~/Documents/D00/
+  452  ls
+  453  cd Day01/
+  454  ls
+  455  cd ex02
+  456  ls
+  457  cat tcpd_department.csv 
+  458  grep 'office' tcpd_department.csv 
+  459  grep 'officer' tcpd_department.csv 
+  460  vi tcpd_officers.txt
+  461  vi officer.sh
+  462  bash officer.sh
+  463  vi officer.sh
+  464  bash officer.sh
+  465  vi officer.sh
+  466  bash officer.sh
+  467  vi officer.sh
+  468  awk {print $1} tcpd_department.csv 
+  469  awk {print '$1'} tcpd_department.csv 
+  470  awk '{print $1}" tcpd_department.csv
+  471  cd ~/Documents/D00/Day01/ex03
+  472  ls
+  473  cat Murder_in_terminal_city/
+  474  vi Murder_in_terminal_city/
+  475  cat hint1
+  476  vi Murder_in_terminal_city/
+  477  ls
+  478  cd Murder_in_terminal_city/
+  479  ls
+  480  cd mystery/
+  481  ls
+  482  grep 'CLUE' crimescene >> crimescene_clues
+  483  vi EnqueteCommands.txt
+  484  ls
+  485  vi EnqueteCommands.txt
+  486  ls
+  487  cat people
+  488  ls
+  489  cd memberships
+  490  ls
+  491  cd AAA
+  492  cat AAA
+  493  ls
+  494  cd ..
+  495  ls
+  496  cat hint1
+  497  cd interviews/
+  498  ls
+  499  grep 'CLUE'
+  500  cd ~/Documents/D00/Day01/
+  501  ls
+  502  cd ex03
+  503  ls
+  504  cd Murder_in_terminal_city/
+  505  ls
+  506  cd mystery/
+  507  cd people
+  508  ls
+  509  cat people
+  510  grep 'M' people 
+  511  grep ' M ' people 
+  512  grep '/M/' people 
+  513  grep '*M*' people 
+  514  grep "*M*" people 
+  515  grep "M*" people 
+  516  grep "M/" people 
+  517  grep "\m\" people
+  518  aa
+  519  aa
+  520  a
+  521  :q
+  522  ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/
+  523  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/
+  524  cd mystery/
+  525  ls
+  526  awk "/M/" people
+  527  awk "*M*" people
+  528  awk "/*M*/" people
+  529  awk "/ M /" people
+  530  ls
+  531  cd memberships
+  532  ls
+  533  diff AAA Delta SkyMiles
+  534  diff AAA DeltaSkyMiles
+  535  diff AAA
+  536  man diff
+  537  diff -s 'AAA' 'Delta SkyMiles'
+  538  ls
+  539  diff -s 'AAA' 'Delta_SkyMiles'
+  540  diff 'AAA' 'Delta_SkyMiles'
+  541  diff -n 'AAA' 'Delta_SkyMiles'
+  542  man diff
+  543  vimdiff AAA Delta_Skymiles
+  544  vimdiff AAA Delta_SkyMiles
+  545  vimdiff AAA Delta_SkyMiles >> diffAAADelta.txt
+  546  ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  547  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  548  ls
+  549  cd memberships/
+  550  ls
+  551  diff -q 'AAA' 'Delta_SkyMiles'
+  552  diff  'AAA' 'Delta_SkyMiles'
+  553  diff  'AAA' 'Delta_SkyMiles' >> diffAADelt.txt
+  554  diffls
+  555  ls
+  556  diff  'diffAADELT.TXT' 'Terminal_City_Library' >> diff2.txt 
+  557  diff  'diffAADelt.txt' 'Terminal_City_Library' >> diff2.txt 
+  558  diff 'diff2.txt' 'Museum_of_Bash_History" >> diff3.txt
+  559  aaaa
+  560  qkill
+  561  kill
+  562  exit
+  563  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  564  diff 'diff2.txt' 'Museum_of_Bash_History" >> diff3.txt
+  565  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  566  ls
+  567  cd memberships/
+  568  ls
+  569  diff 'diff2.txt' 'Museum_of_Bash_History" >> diff3.txt
+  570  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  571  cd mem
+  572  cd memberships/$*
+  573  ls
+  574  diff "diff2.txt" "Museum_of_Bash_History" 
+  575  diff "diff2.txt" "Museum_of_Bash_History" >> diff3.txt
+  576  :q
+  577  diff -y "diff2.txt" "Museum_of_Bash_History" >> diff3.txt
+  578  diff -y "diff2.txt" "Museum_of_Bash_History"
+  579  cd ~/Documents/D00/Day01/
+  580  cd ex02
+  581  awk '{print $1;}' tcpd_department.csv 
+  582  awk '{print $2;}' tcpd_department.csv 
+  583  awk -F"," '{print $2;}' tcpd_department.csv 
+  584  awk '/officer/' tcpd_department.csv 
+  585  awk -F"," '{print $1;$2;$3}' tcpd_department.csv 
+  586  awk -F"," '{print $1;$3}' tcpd_department.csv 
+  587  awk -F"," '{print $1,$3}' tcpd_department.csv 
+  588  awk -F"," '{print $1,$2,$3}' tcpd_department.csv 
+  589  awk - '{print $1,$2,$3}' tcpd_department.csv 
+  590  awk -F"," '{print $1;$3}' tcpd_department.csv 
+  591  awk -F"," '{print $1,$2,$3}' tcpd_department.csv 
+  592  awk "/Officer/" tcpd_department.csv 
+  593  vi tcp_officers.txt
+  594  vi tcpd_expert_officer.txt
+  595  awk "/officer/,/8/" tcpd_department.csv 
+  596  awk "/officer/;/8/" tcpd_department.csv 
+  597  cd ..
+  598  cd ex03
+  599  ls
+  600  vi Murder_in_terminal_city/
+  601  vi instructions
+  602  ls
+  603  vi Murder_in_terminal_city/
+  604  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  605  ls
+  606  cd ~/Documents/D00/Day01/ex03/Murder_in_terminal_city/mystery/
+  607  cd ~/Documents/D00/Day01/ex01
+  608  vi filter.sh
+  609  cd ..
+  610  cd ex00/
+  611  vi filter.sh
+  612  man ls
+  613  vi filter.sh
+  614  cd ..
+  615  mkdir ex01
+  616  cd ex01
+  617  vi MAC.sh
+  618  sudo apt install net-tools
+  619  man ifconfig
+  620  ifconfig
+  621  ifconfig mac
+  622  ifconfig
+  623  ip link
+  624  ifconfig | grep ether
+  625  vi MAC.sh
+  626  ifconfig | grep ether >> test.txt
+  627  cut -d, -f 2 test.txt
+  628  cut -d  -f 2 test.txt
+  629  cut -d '' -f 2 test.txt
+  630  cut -d ' ' -f 2 test.txt
+  631  cut -d' ' -f 2 test.txt
+  632  cut -d' ' -f 1 test.txt
+  633  cut -d' ' -f2 test.txt
+  634  cut -d'' -f2 test.txt
+  635  awk '{print $2}' test.txt
+  636  vi MAC.sh
+  637  cd ..
+  638  mkdir ex02
+  639  cd ex02
+  640  touch eliot2tyrell.txt
+  641  vi eliot2tyrell.txt 
+  642  vi replname.sh
+  643  cd ..
+  644  mkdir ex03
+  645  cd ex03
+  646  mkdir "\?'*it_Akademy*'?\"
+  647  mkdir "\?'*it_Akademy*'?\"
+  648  mkdir \"\?'*it_Akademy*'?\"
+  649  ls
+  650  mkdir \"\?'*it_Akademy*'?\"
+  651  ls
+  652  mkdir \"\\?'*it_Akademy*'?\"
+  653  mkdir \"\\?'*it_Akademy*'?\\"
+  654  mkdir \"\\?'*it_Akademy*'?\\"
+  655  mkdir \"\\?'*it_Akademy*'?\"\
+  656  mkdir \"\\?'*it_Akademy*'?/\"
+  657  mkdir \"\\?'*it_Akademy*'?\ \"
+  658  mkdir \"\\?'*it_Akademy*\'?\\\"
+  659  mkdir \"\\?'*it_Akademy*\'?\\"
+  660  ee
+  661  /
+  662  \
+  663  mkdir \"\\?'*it_Akademy*\'?\\"
+  664  /
+  665  mkdir \"\\?'*it_Akademy*\'?\\\"
+  666  mkdir \"\\?'*it_Akademy*'?\\\"
+  667  mkdir \"\\?'*it_Akademy*'?\\"
+  668  mkdir \"\\?'*it_Akademy*'?\\"
+  669  mkdir \"\\?'*it_Akademy*'?\ \"
+  670  cd ..
+  671  mkdir ex04
+  672  cd ex04
+  673  touch test0
+  674  touch test1
+  675  touch test2
+  676  touch test3
+  677  touch test4
+  678  touch test5
+  679  ls -l
+  680  man chmod
+  681  chmod
+  682  chmod test0
+  683  chmod test0 dr
+  684  chmod test0 perms rwxrwxr
+  685  chmod perms rwxrwxr test0
+  686  chmod g=rwx test0
+  687  ls -l
+  688  chmod a=rwx test0
+  689  ls -l
+  690  chmod ug=rwx o=rx test0
+  691  ls -l
+  692  chmod o-w test0
+  693  ls -l
+  694  touch -d test0
+  695  touch -d '+56 years' test0
+  696  ls -l
+  697  touch -d '+3 months' test0
+  698  ls -l
+  699  touch -d '+56 years' test0
+  700  ls -l
+  701  touch -d '+2 months' test0
+  702  ls -l
+  703  touch -d '+13 days' test0
+  704  ls -l
+  705  touch -d '+13 days +2months' test0
+  706  ls -l
+  707  touch -d '+13 days +2months +55 years' test0
+  708  ls -l
+  709  touch -d '+13 days +2months +55 years' test1
+  710  touch -d '+13 days +2months +55 years' test2
+  711  touch -d '+13 days +2months +55 years' test3
+  712  touch -d '+13 days +2months +55 years' test4
+  713  touch -d '+13 days +2months +55 years' test5
+  714  ls -l
+  715  mkdir test0
+  716  mkdir test3
+  717  mkdir test5
+  718  touch -d '+13 days +2months +55 years' test5
+  719  touch -d '+13 days +2months +55 years' test3
+  720  touch -d '+13 days +2months +55 years' test1
+  721  ls -l
+  722  touch -d '+13 days +2months +55 years' test0
+  723  ls -l
+  724  mkdir test2
+  725  ls -l
+  726  touch -d '+13 days +2months +55 years' test2
+  727  ls -l
+  728  touch test2
+  729  touch -d '+13 days +2months +55 years' test2
+  730  ls -l
+  731  mkdir test1
+  732  ls
+  733  rm test2
+  734  touch test2
+  735  touch -d '+13 days +2months +55 years' test2
+  736  ls -l
+  737  touch -d '+13 days +2months +55 years' test1
+  738  ls -l
+  739  chmod go=rwx test0
+  740  ls -l
+  741  chmod o=rx test0
+  742  ls -l
+  743  chmod go=r test0
+  744  ls -l
+  745  chmod go-x test0
+  746  ls -l
+  747  chmod g=rwx test0
+  748  ls -l
+  749  chmod o=x test0
+  750  ls -l
+  751  chmod o=rx test0
+  752  ls -l*
+  753  ls -l
+  754  chmod go-x test1
+  755  ls -l
+  756  chmod ug=rw test2
+  757  ls -l
+  758  chmod g=rwx test3
+  759  ls -l
+  760  chmod g=rw test4
+  761  ls -l
+  762  chmod u-rw test5
+  763  ls -l
+  764  chmod go-rw test5
+  765  ls -l
+  766  chmod a=rwx test5
+  767  history
+  768  history >> history.txt
+  769  ~/Documents/D00/Day01/
+  770  ~/Documents/D00/
+  771  ~/Documents/
+  772  cd ~/Documents/D00/Day01/
+  773  ls
+  774  cd ..
+  775  cd Day01/
+  776  ls
+  777  mkdir exo05
+  778  vi command.txt
+  779  date >> result.txt | who >> result.txt | ls >> result.txt
+  780  mkdir ex06
+  781  cd ex06
+  782  vi date.sh
+  783  cd ..
+  784  cd ex07
+  785  mkdir ex07
+  786  cd ex07
+  787  vi meteo.sh
+  788  touch printusersonline.sh
+  789  touch printusers.sh
+  790  cat /etc/paswword
+  791  cat /etc/password
+  792  cat etc/password
+  793  cat /etc/passwd
+  794  ls
+  795  vi printusers.sh 
+  796  vi printusersonline.sh 
+  797  vi printusers.sh 
+  798  bash printusers.sh
+  799  vi printusers.sh 
+  800  bash printusers.sh 
+  801  vi printusers.sh 
+  802  bash printusers.sh 
+  803  cd ..
+  804  mkdir ex08
+  805  vi ultimatetouch.sh
+  806  vi ultimatereplace.sh
+  807  mkdir ex09
+  808  git add .
+  809  git commit -m"EndOftues commit"
+  810  git push --repo=D01
+  811  cd ..
+  812  git clone https://github.com/NBlay/D01.git
+  813  cd D01/
+  814  git add .
+  815  git commit -m "EndOfTues commit"
+  816  git push
+  817  ls
+  818  cd Documents/D00/
+  819  ls
+  820  cd ..
+  821  ls
+  822  cd D01
+  823  ls
+  824  cd rush00/
+  825  ls
+  826  cd ex03
+  827  ls
+  828  cd Murder_in_terminal_city/
+  829  ls
+  830  cd mystery/
+  831  ls
+  832  cd me
+  833  cd memberships/
+  834  ls
+  835  cmp 'AAA' 'Delta_SkyMiles'
+  836  comm 'AAA' 'Delta_SkyMiles'
+  837  comm AAA Delta_SkyMiles
+  838  comm 'AAA' 'Delta_SkyMiles'
+  839  ls
+  840  cat AAA
+  841  cat Delta_SkyMiles
+  842  comm 'AAA' 'Delta_SkyMiles'
+  843  comm 'AAA' 'Delta_SkyMiles' > compare1.txt
+  844  sort 'AAA'
+  845  sort Delta_SkyMiles 
+  846  comm 'AAA' 'Delta_SkyMiles' >> compare_1.txt
+  847  cat AAA
+  848  sort 'AAA' >> sortedA.txt
+  849  sort 'Delta_SkyMiles' >> sortedA.txt
+  850  sort 'AAA' >> sortedA.txt
+  851  sort 'AAA' >> sortedDelta.txt
+  852  sort 'AAA' >> sortedA.txt
+  853  comm 'sortedA' 'sortedDelta.txt' 
+  854  comm 'sortedA.txt' 'sortedDelta.txt' 
+  855  comm 'sortedA.txt' 'sortedDelta.txt'  >> commA-Delt.txt
+  856  awk '{print $3}' commA-Delt.txt 
+  857  comm -1 -2 'sortedA.txt' 'sortedDelta.txt'  >> commA-Delt.txt
+  858  comm -1 -2 'sortedA.txt' 'sortedDelta.txt'  >> commA-Delt2.txt
+  859  man comm
+  860  comm -12 'sortedA.txt' 'sortedDelta.txt'  >> commA-Delt2.txt
+  861  comm -12 'sortedA.txt' 'sortedDelta.txt'  >> commA-DeltF.txt
+  862  comm -12 sortedA.txt sortedDelta.txt  >> commA-DeltFi.txt
+  863  sort AAA >> sortedAAA.txt
+  864  sort Delta_SkyMiles >> sortedDelta.txt
+  865  comm sortedAAA.txt sortedDelta.txt >> comm-test.txt
+  866  awk '{print $3}' 
+  867  cd 
+  868  cd Documents/D01/rush00/
+  869  ls
+  870  cd ex03/
+  871  ls
+  872  cd Murder_in_terminal_city/mystery/
+  873  ls
+  874  cd memberships/
+  875  ls
+  876  awk '{print $3}' comm-test.txt
+  877  awk '{print $3}' comm-test.txt >> awktest.txt
+  878  awk '{print $1}' comm-test.txt
+  879  awk '{print $2}' comm-test.txt
+  880  awk '{print $6}' comm-test.txt
+  881  awk '{print $3}' comm-test.txt
+  882  cat comm-test.txt 
+  883  cat comm-test.txt | awk '{print $3}'
+  884  cat comm-test.txt | awk '{print $3}' comm-test.txt
+  885  cat comm-test.txt >> comm-test.csv
+  886  awk '{print $3}' comm-test.csv
+  887  awk '{print $3}' comm-test.csv >> comme-test2.txt
+  888  awk '{print $2}' comm-test.csv >> comme-test2.txt
+  889  awk '{print $2}' comm-test.csv >> comme-test2.csv
+  890  awk -F "\"*,\"*" '{print $3}' comme-test2.csv
+  891  awk -F "\"*,\"*" '{print $3}' comme-test2.csv >> comm3.txt
+  892  cat comme-test2.csv | cut -d ',' -f3
+  893  cat comm-test.csv | cut -d ',' -f3
+  894  cat comm-test.csv | cut -d ' ' -f3
+  895  ls
+  896  comm -1 -2 sortedAAA.txt sortedDelta.txt
+  897  comm -1 -2 sortedAAA.txt sortedDelta.txt >> comm12out.txt
+  898  sort Terminal_City_Library 
+  899  sort Terminal_City_Library >> sortedLib.txt
+  900  comm -1 -2 comm12out.txt sortedLib.txt >> compareADEltLib.txt
+  901  sort Museum_of_Bash_History 
+  902  sort Museum_of_Bash_History >> sortedMuseum.txt
+  903  comm -1 -2 compareADEltLib.txt sortedMuseum.txt >> finalComm.txt
+  904  cp finalComm.txt 
+  905  cp finalComm.txt ~/Documents/D01/rush00/ex03/Murder_in_terminal_city/mystery/
+  906  ls
+  907  cd ..
+  908  ls
+  909  sort people >> peopleSorted.txt
+  910  comm finalComm.txt people.txt
+  911  comm finalComm.txt peopleSorted.txt
+  912  comm finalComm.txt peopleSorted.txt >> peopleVsmembers.txt
+  913  awk '{print $2}' people >> genderPpl.txt
+  914  awk '{print $3}' people >> genderPpl2.txt
+  915  awk '{print $1}' people >> genderPpl2.txt
+  916  cat people >> people.csv
+  917  awk '{print $2}' people.csv 
+  918  awk '{print $3}' people.csv 
+  919  grep -F "\M" people.csv
+  920  grep -F M people.csv
+  921  grep -F *M* people.csv
+  922  grep -F *M people.csv
+  923  grep -F M* people.csv
+  924  grep -F M  people.csv
+  925  grep -F \M people.csv
+  926  grep -F \*M people.csv
+  927  awk '{print $1 $2}' people.csv > namesPeople.csv
+  928  awk '{print $1}' people.csv
+  929  awk '{print $1,$2}' people.csv
+  930  awk '{print $1,$2}' people.csv >> namesPeopleF.txt
+  931  comm namesPeopleF.txt finalComm.txt
+  932  comm namesPeopleF.txt finalComm.txt >> pplvsComm.txt
+  933  sort namesPeopleF.txt
+  934  sort namesPeopleF.txt >> sortedNames.txt
+  935  comm sortedNames.txt finalComm.txt
+  936  comm sortedNames.txt finalComm.txt >> sortedFinalComm.txt
+  937  comm -1 -2 sortedNames.txt finalComm.txt >> sortedFinalComm.txt
+  938  awk '/M/{print}' sortedFinalComm.txt 
+  939  awk '/*M*/{print}' sortedFinalComm.txt 
+  940  awk '/*M/{print}' sortedFinalComm.txt 
+  941  awk '/M/{print}' sortedFinalComm.txt 
+  942  awk '/M/{print $2}' sortedFinalComm.txt 
+  943  awk '/M/{print $3}' sortedFinalComm.txt 
+  944  awk '{print $3}' sortedFinalComm.txt 
+  945  awk '{print $2}' sortedFinalComm.txt 
+  946  awk '{print $4}' sortedFinalComm.txt 
+  947  awk '{print $3}' sortedNames.txt 
+  948  awk '{print}' sortedNames.txt 
+  949  awk '{print $3}' people
+  950  awk '{if ($3==M) {print}}' people
+  951  awk '{if ($3 == M) {print} }' people
+  952  awk '{ if ($3 == M) {print} }' people
+  953  awk '{print $3}' people
+  954  awk '{ if ($3 == 'M') {print} }' people
+  955  ls
+  956  cat sortedFinalComm.txt 
+  957  sort people >> sortedPeople.csv
+  958  awk '{print $1}' sortedPeople.csv 
+  959  awk '{print $1,$2}' sortedPeople.csv 
+  960  awk '{print $1,$2,$3}' sortedPeople.csv 
+  961  awk '{print $1,$2}' >> peopleOnlyNames.txt
+  962  awk '{print $1,$2}'sortedPeople.csv >> peopleOnlyNames.csv
+  963  awk '{print $1,$2}' sortedPeople.csv >> peopleOnlyNames.csv
+  964  awk '{print $1}' peopleOnlyNames.csv 
+  965  awk '{print $2}' peopleOnlyNames.csv 
+  966  awk '{print $1,$2}' peopleOnlyNames.csv 
+  967  comm peopleOnlyNames.csv sortedFinalComm.txt 
+  968  cat sortedFinalComm.txt >> sortedFinalComm.csv
+  969  awk '{print $1}' sortedFinalComm.csv
+  970  comm sortedFinalComm.csv peopleOnlyNames.csv 
+  971  comm sortedFinalComm.csv peopleOnlyNames.csv >> test-final.csv
+  972  awk '{print $3}' test-final.csv 
+  973  awk '{print $3}' test-final.csv >> print-final.csv
+  974  comm sortedFinalComm.csv peopleOnlyNames.csv >> test-final.csv
+  975  sort peopleOnlyNames.csv 
+  976  sort peopleOnlyNames.csv >> namesSorted.csv
+  977  comm sortedFinalComm.csv namesSorted.csv >> test-final.csv
+  978  awk '{print $3}' test-final.csv
+  979  awk '{print $3}' test-final.csv >> printed1.csv
+  980  awk '{print $2}' test-final.csv >> printed1.csv
+  981  awk '{print $1,$2}' test-final.csv >> printed1.csv
+  982  awk '{print $1,$2}' test-final.csv
+  983  awk '{print $3}' test-final.csv
+  984  cat test-final.csv 
+  985  cat {$3} test-final.csv 
+  986  awk '{print $1,$2}' test-final.csv
+  987  awk '{print $1;$2}' test-final.csv
+  988  awk '{print $1;$3}' test-final.csv
+  989  awk '{print $1,$3}' test-final.csv
+  990  awk '{print $1,$2}' test-final.csv
+  991  awk '{print $4}' test-final.csv
+  992  awk '{print $5}' test-final.csv
+  993  awk '{printf "%s ", $3}' test-final.csv
+  994  awk '{printf $3}' test-final.csv
+  995  awk '{printf $2}' test-final.csv 
+  996  comm -1 -2 sortedFinalComm.csv sortedPeople.csv 
+  997  cat sortedPeople.csv 
+  998  comm sortedFinalComm.csv peopleOnlyNames.csv 
+  999  comm -1 -2 sortedPeople.csv 
+ 1000  comm -1 -2 sortedPeople.csv sortedFinalComm.csv
+ 1001  awk '{print $1}' namesSorted.csv 
+ 1002  awk '{print $1,$2}' namesSorted.csv 
+ 1003  awk '{print $1,$2}' sortedFinalComm.csv 
+ 1004  awk '{print $1,$2}' sortedFinalComm.csv  >> sortedSus.txt
+ 1005  cat sortedSus.txt 
+ 1006  awk '{print $1,$2}' sortedFinalComm.csv >> sortedNames.txt
+ 1007  cat sortedNames.txt 
+ 1008  comm -1 -2 sortedNames.txt sortedSus.txt
+ 1009  comm -1 sortedNames.txt sortedSus.txt
+ 1010  comm - sortedNames.txt sortedSus.txt
+ 1011  comm sortedNames.txt sortedSus.txt
+ 1012  awk '{print $4}' people.csv
+ 1013  awk '{print $3}' people.csv
+ 1014  awk '{if ($3 == M) print}' people.csv
+ 1015  awk '{if ($3 ==\M) print}' people.csv
+ 1016  awk '{if ($3 ==\M\) print}' people.csv
+ 1017  awk '{if ($3 =='M') print}' people.csv
+ 1018  awk '{if ($3 == 'M') print}' people.csv
+ 1019  awk '{if ($3 = 'M') print}' people.csv
+ 1020  awk '{if ($3 = '\M') print}' people.csv
+ 1021  awk '{if ($3 = M) print}' people.csv
+ 1022  awk '{if ($3 == M){ print } }' people.csv
+ 1023  sed "1d,8d" people.csv >> peoplecut.csv
+ 1024  sed "1d;8d" people.csv >> peoplecut.csv
+ 1025  sed "1d,8d" people.csv >> peoplecut.csv
+ 1026  sed "6d" people.csv >> peoplecut.csv
+ 1027  sed "1d" people.csv >> peoplecut.csv
+ 1028  cd ~/Documents/D01/rush00/ex03/Murder_in_terminal_city/mystery/
+ 1029  ls
+ 1030  cat sortedFinalComm.csv
+ 1031  cat people | grep "Andrei Masna"
+ 1032  cat people | grep "Aldo Nicolas"
+ 1033  cat people | grep ""
+ 1034  cat people | grep "Andrei Masna" >> malesPpl.txt
+ 1035  cat people | grep "Aldo Nicolas" >> malesPpl.txt
+ 1036  cat people | grep "Augustin Lozano" >> malesPpl.txt
+ 1037  cat malesPpl.txt 
+ 1038  cat people | grep "Brian Boyer"
+ 1039  cat people | grep "Brian Boyer" >> malesPpl.txt
+ 1040  cat people | grep "Dalibor Vidal"
+ 1041  cat people | grep "Dalibor Vidal" >> malesPpl.txt
+ 1042  cat people | grep "Deron Estanguet"
+ 1043  cat people | grep "Deron Estanguet" >> malesPPl.txt
+ 1044  cat people | grep "Didier Munoz"
+ 1045  cat people | grep "Didier Munoz" >> malesPpl.txt 
+ 1046  cat people | grep "Emma Wei"
+ 1047  cat people | grep "Jacqui Maher"
+ 1048  cat people | grep "Jamila Roche"
+ 1049  cat people | grep "Jamila Rodhe"
+ 1050  cat people | grep "Jeremy Bowers"
+ 1051  cat people | grep "Jeremy Bowers" >> malesPpl.txt 
+ 1052  cat people | grep "Kelly Kulish"
+ 1053  cat people | grep "Krystian Pen"
+ 1054  cat people | grep "Krystian Pen" >> malesPpl.txt
+ 1055  cat people | grep "Liangliang Miller" >> malesPpl.txt
+ 1056  cat people | grep "Liangliang Miller"
+ 1057  cat people | grep "Marina Murphy"
+ 1058  cat people | grep "Mary Tomashova"
+ 1059  cat people | grep "Matt Waite"
+ 1060  cat people | grep "Matt Waite" >> malesPpl.txt 
+ 1061  cat people | grep "Mike Bostock"
+ 1062  cat people | grep "Mike Bostock" >> malesPpl.txt 
+ 1063  cat people | grep "Monika Hwang"
+ 1064  cat people | grep "Nikolaus Milatz"
+ 1065  cat people | grep "Nikolaus Milatz" >> malesPpl.txt 
+ 1066  cat people | grep "Sona Raif"
+ 1067  cat people | grep "Sonata Raif"
+ 1068  cat people | grep "Stephanie Adlington"
+ 1069  cat people | grep "Tamara cafaro"
+ 1070  cat people | grep "Tamara Cafaro"
+ 1071  cat malesPpl.txt 
+ 1072  cat people | grep "Annabel"
+ 1073  cat finalComm.txt | grep "Annabel"
+ 1074  cat finalSortedComm.txt | grep "Annabel"
+ 1075  cat sortedFinalComm.txt | grep "Annabel"
+ 1076  cat sortedFinalComm.
+ 1077  cat sortedFinalComm.txt
+ 1078  head people
+ 1079  head n20 people
+ 1080  head -n20 people
+ 1081  head vehicles
+ 1082  cd ..
+ 1083  ls
+ 1084  cat instructions 
+ 1085  ls
+ 1086  cat README.md 
+ 1087  ls
+ 1088  cat cheatsheet.md
+ 1089  cd ~/Documents/D01/rush00/ex03/Murder_in_terminal_city/mystery
+ 1090  cat people | grep "Annabel"
+ 1091  lq
+ 1092  ls
+ 1093  cat vehicles
+ 1094  grep "Honda" vehicles >> allHondas.txt
+ 1095  grep License Plate vehicles
+ 1096  grep "L337" | "Honda" vehicles
+ 1097  grep "L337 | Honda" vehicles
+ 1098  grep "L337" vehicles
+ 1099  grep "L337" vehicles -A 3 -B 2
+ 1100  grep "L337" vehicles  -A 5
+ 1101  grep "L337" vehicles -A 5 grep "Honda" vehicles -A 4 -B 1
+ 1102  grep "L337" vehicles -A 5 >> platesL337.txt
+ 1103* gr
+ 1104  grep "Blue" platesL337.txt -A 4 >> platesNBlue.txt
+ 1105  cat platesNBlue.txt 
+ 1106  grep "Blue" platesL337.txt -A 4 -B 1 >> platesNBlue.txt
+ 1107  grep "Honda" platesNBlue.txt -A 4 -B 1 >> platesNBlueNMaker.txt
+ 1108  grep "6\'" platesNBlueNMaker.txt  >> platesNBlueNMakerNHeight.txt
+ 1109  cat platesNBlueNMakerNHeight.txt
+ 1110  grep "Height: 6*" platesNBlueNMaker.txt
+ 1111  grep "Height: 6*" -B 3  platesNBlueNMaker.txt
+ 1112  grep "Height:\ 6" -B 3  platesNBlueNMaker.txt
+ 1113  grep "Height:\ 6" -B 3  platesNBlueNMaker.txt >> allhintsAndHeight.txt
+ 1114  grep "owner" allhintsAndHeight.txt
+ 1115  grep "Owner" allhintsAndHeight.txt
+ 1116  grep "Owner" allhintsAndHeight.txt >> lastSuspects.csv
+ 1117  cut -b 5 lastSuspects.csv 
+ 1118  cut -b 6 lastSuspects.csv 
+ 1119  cut -c 7-20 lastSuspects.csv 
+ 1120  cut -c 7-20 lastSuspects.csv >> lastSusNames.txt
+ 1121  sort lastSusNames.txt >> sortedLastSusNames.txt
+ 1122  comm sortedLastSusNames.txt sortedFinalComm.txt
+ 1123  comm -1 -2 sortedLastSusNames.txt sortedFinalComm.txt
+ 1124  comm -1 -2 sortedLastSusNames.txt malesPpl.txt
+ 1125  sort malesPpl.txt
+ 1126  sort malesPpl.txt >> sortedMalesPpl.txt
+ 1127  comm -1 -2 sortedLastSusNames.txt sortedMalesPpl.txt
+ 1128  comm sortedLastSusNames.txt sortedMalesPpl.txt
+ 1129  history >> history_cls.txt

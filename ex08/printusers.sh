@@ -1,1 +1,2 @@
-cat /etc/passwd >> password.txt 
+#!\bin\sh
+cat /etc/passwd | cut "-d:" -f1

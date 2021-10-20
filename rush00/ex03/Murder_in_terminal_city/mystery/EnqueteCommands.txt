@@ -1,4 +1,16 @@
-pour récupérer les clues de 'crimescene' == rep 'CLUE' crimescene >> crimescene_clues
-pour comparer les memberships: diff fichier1 fichier2 >> fichier3
+pour récupérer les clues de 'crimescene' == grep 'CLUE' crimescene >> crimescene_clues
 
+pour comparer les memberships:
+1/ sort membership files
+2/ comm -1 -2 sortedFile membershipFile
+
+pour identifier suspects:
+cat people | grep "name" 
+if male: >> malesPpls.txt
+
+pour identifer témoin: 
+cat people | grep "Annabel" : récupérer adresses + lines
+pour chaque adresse: head -n° de la ligne pour récupérer le n° d'interview
+puis dans interview cat interview_n°interview.
+témoin: Annabel Church
 
